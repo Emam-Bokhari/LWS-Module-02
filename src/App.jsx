@@ -1,10 +1,10 @@
 import { Fragment } from "react";
-import EventHandler from "./Module-2.1/EventHandler";
+import InlineEventHandler from "./Module-2.1/InlineEventHandler";
 
 export default function App() {
   return (
     <Fragment>
-      <EventHandler />
+      <InlineEventHandler />
     </Fragment>
   )
 }
