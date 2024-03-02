@@ -1,10 +1,10 @@
 import { Fragment } from "react";
-import InlineEventHandler from "./Module-2.1/InlineEventHandler";
+import ArrowFunctionHandler from "./Module-2.1/ArroFunctionHandler";
 
 export default function App() {
   return (
     <Fragment>
-      <InlineEventHandler />
+      <ArrowFunctionHandler />
     </Fragment>
   )
 }
