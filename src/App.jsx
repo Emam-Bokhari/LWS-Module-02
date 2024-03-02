@@ -1,10 +1,10 @@
 import { Fragment } from "react";
-import ArrowFunctionHandler from "./Module-2.1/ArroFunctionHandler";
+import Bubbling from "./Module-2.1/Module-2.2/Bubbling";
 
 export default function App() {
   return (
     <Fragment>
-      <ArrowFunctionHandler />
+      <Bubbling />
     </Fragment>
   )
 }
