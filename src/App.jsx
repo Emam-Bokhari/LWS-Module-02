@@ -1,10 +1,10 @@
 import { Fragment } from "react";
-import PreventDefault from "./Module-2.2/PreventDefault";
+import Gallery from "./Module-2.3/Gallery";
 
 export default function App() {
   return (
     <Fragment>
-      <PreventDefault />
+      <Gallery />
     </Fragment>
   )
 }
