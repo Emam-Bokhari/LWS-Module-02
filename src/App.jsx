@@ -1,5 +1,5 @@
 import { Fragment } from "react";
-import Gallery from "./Module-2.3/Gallery";
+import Gallery from "./Module-2.5/Gallery";
 
 export default function App() {
   return (
