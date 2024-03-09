@@ -1,10 +1,10 @@
 import { Fragment } from "react";
-import CounterAlert from "./Module-2.6/CounterAlert";
+import CounterSetTimeout from "./Module-2.6/CounterSetTimeout";
 
 export default function App() {
   return (
     <Fragment>
-      <CounterAlert />
+      <CounterSetTimeout />
     </Fragment>
   )
 }
