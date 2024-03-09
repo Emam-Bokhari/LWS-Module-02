@@ -1,10 +1,10 @@
 import { Fragment } from "react";
-import Gallery from "./Module-2.5/Gallery";
+import Counter from "./Module-2.6/Counter";
 
 export default function App() {
   return (
     <Fragment>
-      <Gallery />
+      <Counter />
     </Fragment>
   )
 }
