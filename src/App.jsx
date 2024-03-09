@@ -1,10 +1,10 @@
 import { Fragment } from "react";
-import Counter from "./Module-2.7/Counter";
+import CounterTwo from "./Module-2.7/CounterTwo";
 
 export default function App() {
   return (
     <Fragment>
-      <Counter />
+      <CounterTwo />
     </Fragment>
   )
 }
