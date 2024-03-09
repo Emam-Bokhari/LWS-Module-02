@@ -1,10 +1,10 @@
 import { Fragment } from "react";
-import Counter from "./Module-2.6/Counter";
+import CounterAlert from "./Module-2.6/CounterAlert";
 
 export default function App() {
   return (
     <Fragment>
-      <Counter />
+      <CounterAlert />
     </Fragment>
   )
 }
