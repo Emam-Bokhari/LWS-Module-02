@@ -1,10 +1,10 @@
 import { Fragment } from "react";
-import MovingDot from "./Module-2.8/MovingDot";
+import Form from "./Module-2.8/Form/Form";
 
 export default function App() {
   return (
     <Fragment>
-      <MovingDot />
+      <Form />
     </Fragment>
   )
 }
