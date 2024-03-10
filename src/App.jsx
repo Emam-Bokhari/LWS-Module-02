@@ -1,10 +1,10 @@
 import { Fragment } from "react";
-import CounterTwo from "./Module-2.7/CounterTwo";
+import MovingDot from "./Module-2.8/MovingDot";
 
 export default function App() {
   return (
     <Fragment>
-      <CounterTwo />
+      <MovingDot />
     </Fragment>
   )
 }
