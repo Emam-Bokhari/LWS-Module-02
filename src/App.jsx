@@ -1,10 +1,10 @@
 import { Fragment } from "react";
-import MoreConciseForm from "./Module-2.8/Form/MoreConciseForm";
+import List from "./Module-2.9/List";
 
 export default function App() {
   return (
     <Fragment>
-      <MoreConciseForm />
+      <List />
     </Fragment>
   )
 }
