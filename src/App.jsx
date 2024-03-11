@@ -1,10 +1,10 @@
 import { Fragment } from "react";
-import CounterList from "./Module-2.9/CounterList";
+import ReverseArray from "./Module-2.9/ReverseArray";
 
 export default function App() {
   return (
     <Fragment>
-      <CounterList />
+      <ReverseArray />
     </Fragment>
   )
 }
