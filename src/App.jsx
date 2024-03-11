@@ -1,10 +1,10 @@
 import { Fragment } from "react";
-import List from "./Module-2.9/List";
+import RemovingList from "./Module-2.9/RemovingList";
 
 export default function App() {
   return (
     <Fragment>
-      <List />
+      <RemovingList />
     </Fragment>
   )
 }
